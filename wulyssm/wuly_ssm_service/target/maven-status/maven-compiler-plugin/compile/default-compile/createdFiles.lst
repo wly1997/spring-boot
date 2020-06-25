@@ -1,0 +1,14 @@
+com\wuly\service\IOrdersService.class
+com\wuly\service\IRoleService.class
+com\wuly\service\IPermissionService.class
+com\wuly\service\ISysLogService.class
+com\wuly\service\impl\ProdectServiceImpl.class
+com\wuly\service\impl\RoleServiceImpl.class
+com\wuly\service\impl\SysLogService.class
+com\wuly\service\IUserInfoService.class
+com\wuly\service\impl\OrdersServiceImpl.class
+com\wuly\service\IUserService.class
+com\wuly\service\IProdectService.class
+com\wuly\service\impl\UserServiceImpl.class
+com\wuly\service\impl\PermissionServiceImpl.class
+com\wuly\service\impl\UserInfoServiceImpl.class

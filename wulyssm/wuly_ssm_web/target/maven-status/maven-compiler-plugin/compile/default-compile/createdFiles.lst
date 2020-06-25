@@ -1,0 +1,7 @@
+com\wuly\controller\PermissionController.class
+com\wuly\controller\UserController.class
+com\wuly\controller\SysLogController.class
+com\wuly\controller\LogAop.class
+com\wuly\controller\OrdersController.class
+com\wuly\controller\RoleController.class
+com\wuly\controller\ProductController.class

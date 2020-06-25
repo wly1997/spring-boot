@@ -1,0 +1,9 @@
+com\wuly\dao\IUserDao.class
+com\wuly\dao\IRoleDao.class
+com\wuly\dao\ITravellerDao.class
+com\wuly\dao\IProductDao.class
+com\wuly\dao\IUserInfoDao.class
+com\wuly\dao\IPermisssionDao.class
+com\wuly\dao\ISysLogDao.class
+com\wuly\dao\IMemberDao.class
+com\wuly\dao\IOrdersDao.class

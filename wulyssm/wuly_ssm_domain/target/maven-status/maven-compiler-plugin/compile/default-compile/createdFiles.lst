@@ -1,0 +1,8 @@
+com\wuly\domain\Product.class
+com\wuly\domain\Permission.class
+com\wuly\domain\UserInfo.class
+com\wuly\domain\SysLog.class
+com\wuly\domain\Member.class
+com\wuly\domain\Role.class
+com\wuly\domain\Traveller.class
+com\wuly\domain\Orders.class
